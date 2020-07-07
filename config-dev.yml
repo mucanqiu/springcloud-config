@@ -1,1 +1,2 @@
-test: "aa  var 1.0"
+config:
+  info: aa  var 1.0
